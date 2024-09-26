@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://haizhao20.github.io/mymkdocs/
+site_author: haizh
+theme:
+  name: material
